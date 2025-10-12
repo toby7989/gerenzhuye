@@ -1,37 +1,52 @@
 [
   {
     "icon": "Blog",
-    "name": "小旗搭建",
-    "link": "https://xqdj.free.hr"
+    "name": "小旗搭建-建设中",
+    "link": "https://baiyang.eu.org"
   },
   {
     "icon": "Blog",
     "name": "科技圈",
-    "link": "https://kejiquan.pp.ua"
+    "link": "https://www.duola1314.eu.org"
+  },
+  {
+    "icon": "Blog",
+    "name": "手机电脑-建设中",
+    "link": "https://baiyang.eu.org"
+  },
+  {
+    "icon": "Blog",
+    "name": "超多福利哦-建设中",
+    "link": "https://baiyang.eu.org"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://xqdj.free.hr/"
+    "link": "https://music.imsyy.top/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://xqdj.free.hr"
+    "link": "https://baiyang.eu.org"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://xqdj.free.hr"
+    "link": "https://baiyang.eu.org"
   },
   {
     "icon": "shop",
-    "name": "商店",
+    "name": "海外应用小店",
     "link": "https://shangdian.eu.org"
+  },
+  {
+    "icon": "shop",
+    "name": "eSIM小店",
+    "link": "https://shanhe.eu.org"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://xqdj.free.hr/"
+    "link": "https://status.imsyy.top/"
   }
 ]
