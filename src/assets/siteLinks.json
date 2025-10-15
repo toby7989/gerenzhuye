@@ -20,6 +20,16 @@
     "link": "https://365301.xyz"
   },
   {
+    "icon": "shop",
+    "name": "海外应用小店",
+    "link": "https://shangdian.eu.org"
+  },
+  {
+    "icon": "shop",
+    "name": "eSIM小店",
+    "link": "https://shanhe.eu.org"
+  },
+  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
@@ -33,16 +43,6 @@
     "icon": "Book",
     "name": "网址集",
     "link": "https://365301.xyz"
-  },
-  {
-    "icon": "shop",
-    "name": "海外应用小店",
-    "link": "https://shangdian.eu.org"
-  },
-  {
-    "icon": "shop",
-    "name": "eSIM小店",
-    "link": "https://shanhe.eu.org"
   },
   {
     "icon": "LaptopCode",
