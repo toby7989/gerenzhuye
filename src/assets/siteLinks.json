@@ -1,23 +1,33 @@
 [
   {
-    "icon": "Blogger",
+    "icon": "Book",
     "name": "小旗搭建",
-    "link": "https://365301.xyz"
+    "link": "https://vps123.eu.org"
   },
   {
-    "icon": "Blogger",
-    "name": "科技圈",
+    "icon": "Book",
+    "name": "科技来了",
     "link": "https://www.duola1314.eu.org"
   },
   {
-    "icon": "Blog",
-    "name": "手机电脑-建设中",
-    "link": "https://baiyang.eu.org"
+    "icon": "LaptopCode",
+    "name": "海外账号",
+    "link": "https://shangdian.eu.org"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "国外号码",
+    "link": "https://shanhe.eu.org"
   },
   {
     "icon": "Blog",
-    "name": "超多福利哦-建设中",
-    "link": "https://baiyang.eu.org"
+    "name": "手机电脑-更新中",
+    "link": "https://365301.xyz"
+  },
+  {
+    "icon": "Book",
+    "name": "超多福利哦-更新中",
+    "link": "https://365301.xyz"
   },
   {
     "icon": "CompactDisc",
@@ -30,23 +40,13 @@
     "link": "https://baiyang.eu.org"
   },
   {
-    "icon": "Book",
+    "icon": "Blogger",
     "name": "网址集",
     "link": "https://baiyang.eu.org"
   },
   {
-    "icon": "AccessTime24Filled",
-    "name": "海外应用小店",
-    "link": "https://shangdian.eu.org"
-  },
-  {
-    "icon": "AccessTime24Filled",
-    "name": "eSIM小店",
-    "link": "https://shanhe.eu.org"
-  },
-  {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "其他",
+    "link": "https://365301.xyz/"
   }
 ]
