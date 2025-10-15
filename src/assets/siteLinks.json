@@ -1,13 +1,23 @@
 [
   {
     "icon": "Blog",
-    "name": "小旗",
-    "link": "https://blog.imsyy.top/"
+    "name": "小旗搭建",
+    "link": "https://365301.xyz"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Blog",
+    "name": "科技圈",
+    "link": "https://www.duola1314.eu.org"
+  },
+  {
+    "icon": "Blog",
+    "name": "手机电脑-建设中",
+    "link": "https://baiyang.eu.org"
+  },
+  {
+    "icon": "Blog",
+    "name": "超多福利哦-建设中",
+    "link": "https://baiyang.eu.org"
   },
   {
     "icon": "CompactDisc",
@@ -17,17 +27,22 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://baiyang.eu.org"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://baiyang.eu.org"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "shop",
+    "name": "海外应用小店",
+    "link": "https://shangdian.eu.org"
+  },
+  {
+    "icon": "shop",
+    "name": "eSIM小店",
+    "link": "https://shanhe.eu.org"
   },
   {
     "icon": "LaptopCode",
